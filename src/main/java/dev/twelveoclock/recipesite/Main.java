@@ -1,6 +1,8 @@
 package dev.twelveoclock.recipesite;
 import io.javalin.Javalin;
 import io.javalin.config.JavalinConfig;
+import io.javalin.http.staticfiles.StaticFileConfig;
+
 import java.util.function.Consumer;
 
 public class Main {
